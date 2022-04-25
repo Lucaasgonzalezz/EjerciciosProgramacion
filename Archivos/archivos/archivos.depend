@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1650917544 source:c:\users\lucaa\documents\ejercicios programacion\archivos\archivos\archivos.c
+	"archivos.h"
+	"../../Fecha/fecha.h"
+
+1650897262 c:\users\lucaa\documents\ejercicios programacion\archivos\archivos\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	"../../Fecha/fecha.h"
+
+1650897826 source:c:\users\lucaa\documents\ejercicios programacion\archivos\archivos\main.c
+	"archivos.h"
+
+1650827840 source:c:\users\lucaa\documents\ejercicios programacion\fecha\fecha.c
+	"fecha.h"
+	"../Archivos/archivos/archivos.h"
+
+1650632291 c:\users\lucaa\documents\ejercicios programacion\fecha\fecha.h
+
