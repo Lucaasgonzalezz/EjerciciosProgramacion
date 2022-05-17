@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652712449 source:c:\users\lucaa\documents\ejercicios programacion\archivos\ordenararchivosconpila\ordenararchivosporpila\main.c
+	"head.h"
+
+1652710744 c:\users\lucaa\documents\ejercicios programacion\archivos\ordenararchivosconpila\ordenararchivosporpila\head.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652712411 source:c:\users\lucaa\documents\ejercicios programacion\archivos\ordenararchivosconpila\ordenararchivosporpila\funciones.c
+	"head.h"
+
