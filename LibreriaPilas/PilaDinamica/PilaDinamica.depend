@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205422 source:c:\users\lucaa\desktop\ejercicios programacion\libreriapilas\piladinamica\main.c
+
+1665770776 source:c:\users\lucaa\desktop\ejercicios programacion\libreriapilas\piladinamica\pila.c
+	"pila.h"
+
+1665770746 c:\users\lucaa\desktop\ejercicios programacion\libreriapilas\piladinamica\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

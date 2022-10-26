@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666793990 source:c:\users\lucaa\desktop\ejercicios programacion\libreriapilas\lista\lista.c
+	"lista.h"
+
+1666793315 c:\users\lucaa\desktop\ejercicios programacion\libreriapilas\lista\lista.h
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1584205422 source:c:\users\lucaa\desktop\ejercicios programacion\libreriapilas\lista\main.c
+
